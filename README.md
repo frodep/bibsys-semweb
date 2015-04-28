@@ -4,7 +4,7 @@ BIBSYS Library Database in Semantic Web
 
 PROJECT MEMBERS  
 Tarje Sælen Lavik, Special Librarian, University Library of Bergen (UiB),  
-Frode Pettersen, Senior Engineer/Project Manager, Norwegian University of Science and Technology Library (NTNU),  
+Frode Pettersen, Senior Engineer, Norwegian University of Science and Technology Library (NTNU),  
 Kyrre Traavik Låberg, Senior Engineer, University Library of Oslo (UiO),  
 Bengt Øieroset, Special Librarian, University Library of Tromsø (UiT),  
 Elise Conradi, Project Manager, National Library of Norway (NB),  
